@@ -32,7 +32,7 @@ Dataset <br/>
 <br />
 
  <p align="center">
-training config <br/>
+Training config <br/>
 <img src="https://i.imgur.com/ItD158J.png" height="60%" width="60%" alt=Training config"/>
 <img src="https://i.imgur.com/h3xraSJ.png" height="60%" width="60%" alt=Training config"/>
 
